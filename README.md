@@ -1,13 +1,13 @@
 # Game Development using JavaFX
 ### (Desktop App)
 
-## Video Demo: 
+### Video Demo: 
 
 https://www.youtube.com/watch?v=Qit_AFu-qfk
 
 
-
-
+&nbsp;
+&nbsp;
 
 ![alt text](https://github.com/whl827/Ball-Shooting-Game/blob/master/Pictures/1.PNG)
 
